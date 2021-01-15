@@ -15,4 +15,4 @@
 
 1. Download [shape_predictor_68_face_landmarks.dat](https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2) and put in model folder
 
-2. run final_result.py
+2. Run final_result.py
