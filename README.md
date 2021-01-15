@@ -6,7 +6,12 @@
 
 
 
+1. Find face with rectangular in video
+2. Apply face_landmarks
+3. Compute center and boundaris of face
+4. Add Pikachu
 ---
+## Method
 
 1. Download [shape_predictor_68_face_landmarks.dat](https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2) and put in model folder
 
