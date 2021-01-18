@@ -124,7 +124,6 @@ while True:
         fourcc = cv2.VideoWriter_fourcc(*'XVID')
         writer = cv2.VideoWriter(result_path, fourcc, 25, (result.shape[1], result.shape[0]), True)
 
-    # 비디오 저장
     if writer is not None:
         writer.write(result)
 
