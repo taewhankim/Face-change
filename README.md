@@ -5,11 +5,7 @@
 ![fianl](https://user-images.githubusercontent.com/71427403/104696147-2afb1e80-5751-11eb-8ae1-85d21b9d0567.png)
 
 
-
-1. Find face with ```rectangle``` in video   
-2. Add face_landmarks by ```dlib.shape_predictor```   
-3. Compute center and boundaris of face   
-4. ```overlay_transparent``` to add Pikachu   
+[Video](https://youtu.be/y6sAJbscK-w)
 ---
 ## Method
 
@@ -19,4 +15,10 @@
 
 3. Run final_result.py
 
+---
+## Workflow
 
+1. Find face with ```rectangle``` in video   
+2. Add face_landmarks by ```dlib.shape_predictor```   
+3. Compute center and boundaris of face   
+4. ```overlay_transparent``` to add Pikachu   
