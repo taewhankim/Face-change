@@ -6,13 +6,17 @@
 
 
 
-1. Find face with rectangular in video
-2. Apply face_landmarks
-3. Compute center and boundaris of face
-4. Add Pikachu
+1. Find face with ```rectangle``` in video   
+2. Add face_landmarks by ```dlib.shape_predictor```   
+3. Compute center and boundaris of face   
+4. ```overlay_transparent``` to add Pikachu   
 ---
 ## Method
 
 1. Download [shape_predictor_68_face_landmarks.dat](https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2) and put in model folder
 
-2. Run final_result.py
+2. Set **save Path** in ```python result_path```
+
+3. Run final_result.py
+
+
