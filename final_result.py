@@ -117,11 +117,8 @@ while True:
     # cv2.imshow('original', ori)
     # show facial landmark
     # cv2.imshow('facial landmarks', img)
-    # frame = cv2.flip(result,0)
-    # out.write(frame)
 
-    # save_video = savevideo('save.avi',25.0)
-    # save_video.wh_video(result)
+    # save video
 
     if writer is None:
         fourcc = cv2.VideoWriter_fourcc(*'XVID')
@@ -131,7 +128,7 @@ while True:
     if writer is not None:
         writer.write(result)
 
-    #cv2.imshow('result', result)
+    cv2.imshow('result', result)
 
     if cv2.waitKey(2) == ord('q'):
         #sys.exit(0.1)
