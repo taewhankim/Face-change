@@ -4,9 +4,8 @@
 
 ![fianl](https://user-images.githubusercontent.com/71427403/104696147-2afb1e80-5751-11eb-8ae1-85d21b9d0567.png)
 
-<iframe width="560" height="420" src="https://youtu.be/y6sAJbscK-w?color=white&theme=light"></iframe>    
 
-[Video](https://youtu.be/y6sAJbscK-w)
+![result_video avi_20210119_002007](https://user-images.githubusercontent.com/71427403/104933336-24d49e80-59ec-11eb-9057-f6a9555d69c0.gif)
 ---
 ## Method
 
